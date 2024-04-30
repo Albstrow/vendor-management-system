@@ -77,6 +77,3 @@ POST /api/purchase_orders/{po_id}/acknowledge for vendors to acknowledge POs.
 ## Running Tests  
 Run the test suite:  
   python manage.py test  
-
-
-[django_developer_assignment.pdf](https://github.com/imswaggyboy/vendor-management-system-django/files/13615015/django_developer_assignment.pdf)
